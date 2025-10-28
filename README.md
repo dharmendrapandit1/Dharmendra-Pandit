@@ -8,17 +8,19 @@
 
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Visit%20Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-v1-azure-xi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Network%20With%20Me-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dharmendra-pandit)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Network%20With%20Me-blue?style=for-the-badge&logo=linkedin)](#)
 [![Freelance](https://img.shields.io/badge/💻_Freelance-Hire%20Me-purple?style=for-the-badge&logo=freelancer)](mailto:dharmendra193728@gmail.com)
 [![Email](https://img.shields.io/badge/📧_Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:dharmendra193728@gmail.com)
 
-<!-- Stats Cards -->
+<!-- Stats Cards - FIXED -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dp62042&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp62042&layout=compact&theme=tokyonight&hide_border=true" />
+  
+![Dharmendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dp62042&theme=tokyonight&hide_border=true&fire=00D4FF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
 </div>
 
