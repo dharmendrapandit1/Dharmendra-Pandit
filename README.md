@@ -9,7 +9,7 @@ Currently exploring **AI + Full-Stack development** while sharpening my **DSA in
 ---
 
 ## 🔥 About Me
-- 🎓 2nd-year Software Engineering student at **JECRC University** (Batch 2027).  
+- 🎓 3rd-year Software Engineering student at **JECRC University** (Batch 2027).  
 - 💻 Skilled in **Java, JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB**.  
 - 🎨 Experience in **UI/UX design** and creating clean, user-friendly interfaces.  
 - 📚 Currently learning **Python for AI + Backend Development**.  
