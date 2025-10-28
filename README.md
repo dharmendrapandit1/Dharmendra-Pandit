@@ -1,31 +1,46 @@
 <div align="center">
 
-# 👨‍💻 Hi, I'm Dharmendra Pandit 
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=👨‍💻+Hi,+I'm+Dharmendra+Pandit;🚀+Full-Stack+Developer;📱+React+Native+Expert;☕+Java+Developer;🤖+GenAI+Explorer;💼+Freelancer" alt="Typing Animation" />
 
-🚀 **Full-Stack Developer • UI/UX Enthusiast • AI Explorer**  
-📍 Building digital experiences from **Bettiah, India**
+### 🚀 **Crafting Digital Experiences • Building Scalable Solutions**  
+📍 **From Bettiah, India to the World** 🌍
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00D4FF?style=for-the-badge&logo=vercel)](https://portfolio-v1-azure-xi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dharmendra-pandit)
-[![Email](https://img.shields.io/badge/📧_Email_Me-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:dharmendra193728@gmail.com)
+<!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Visit%20Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-v1-azure-xi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Network%20With%20Me-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dharmendra-pandit)
+[![Freelance](https://img.shields.io/badge/💻_Freelance-Hire%20Me-purple?style=for-the-badge&logo=freelancer)](mailto:dharmendra193728@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:dharmendra193728@gmail.com)
+
+<!-- Stats Cards -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dp62042&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp62042&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dp62042&theme=tokyonight&hide_border=true&fire=00D4FF)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 **What I Do**
 
 ```javascript
 const dharmendra = {
+  role: "Full-Stack Developer & Tech Consultant",
+  specialization: ["MERN Stack", "React Native", "Java Development", "GenAI"],
   code: ["JavaScript", "TypeScript", "Java", "Python"],
   tech: {
+    mobile: ["React Native", "Expo", "Android Development"],
     frontend: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
-    backend: ["Node.js", "Express", "REST APIs"],
-    database: ["MongoDB", "Supabase", "Prisma"],
-    cloud: ["Vercel", "AWS", "Render"],
-    tools: ["Git", "Postman", "Figma"]
+    backend: ["Node.js", "Express", "Spring Boot", "REST APIs"],
+    database: ["MongoDB", "PostgreSQL", "Supabase", "Prisma"],
+    ai_ml: ["OpenAI API", "LangChain", "Python AI Libraries"],
+    cloud: ["AWS", "Vercel", "Render", "Firebase"]
   },
-  currentFocus: "Building scalable full-stack applications",
-  learning: ["AI Integration", "System Design", "Advanced DSA"],
-  funFact: "I believe great code should feel as smooth as my favorite web series!"
+  currently: "Building cross-platform apps & exploring GenAI integration",
+  learning: ["Advanced Java", "AI/ML Models", "System Design"],
+  availableFor: ["Freelance Projects", "Collaborations", "Tech Consultancy"],
+  funFact: "I turn complex problems into elegant solutions! ⚡"
 };
