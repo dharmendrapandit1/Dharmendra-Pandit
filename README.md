@@ -4,13 +4,13 @@
 📍 Bettiah, India  
 
 I’m a passionate developer who loves building scalable web apps, solving DSA problems, and creating products that make an impact.  
-Currently exploring **AI + Full-Stack development** while sharpening my **DSA in Java & JavaScript**.  
+Currently exploring **AI + Full-Stack development** while sharpening my **DSA in Java**.  
 
 ---
 
 ## 🔥 About Me
 - 🎓 3rd-year Software Engineering student at **JECRC University** (Batch 2027).  
-- 💻 Skilled in **Java, JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB**.  
+- 💻 Skilled in **Java, JavaScript, TypeScript, React.js, React-native, Next.js, Node.js, Express.js, MongoDB**.  
 - 🎨 Experience in **UI/UX design** and creating clean, user-friendly interfaces.  
 - 📚 Currently learning **Python for AI + Backend Development**.  
 - ⚡ Fun fact: I’m also interested in stock markets 📈 and real-time apps.  
@@ -23,7 +23,7 @@ Currently exploring **AI + Full-Stack development** while sharpening my **DSA in
 `Java` `JavaScript` `TypeScript` `Python`  
 
 **Frontend**  
-`React.js` `Next.js` `Tailwind CSS` `HTML` `CSS`  
+`React.js`  `React-Native` `Next.js` `Tailwind CSS` `HTML` `CSS`  
 
 **Backend**  
 `Node.js` `Express.js` `REST APIs`  
@@ -64,7 +64,7 @@ Currently exploring **AI + Full-Stack development** while sharpening my **DSA in
 - Portfolio: [portfolio-v1-azure-xi.vercel.app](https://portfolio-v1-azure-xi.vercel.app/)  
 - LinkedIn: [linkedin.com/in/dharmendra-pandit](#)  
 - GitHub: [github.com/dp62042](https://github.com/dp62042)  
-- Email: **your-email@example.com**  
+- Email: **dharmendra193728@gmail.com**  
 
 ---
 
